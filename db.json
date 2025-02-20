@@ -1,34 +1,28 @@
 {
-  "projects": [
+  "tweets": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend."
+      "username": "JuanPerez",
+      "handle": "@juanp",
+      "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+      "content": "Este es mi primer tweet!",
+      "timestamp": "2025-02-20T14:00:00Z"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack."
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "title": "Task 1",
-      "description": "Use Vite to create a basic React app"
+      "username": "MariaLopez",
+      "handle": "@marial",
+      "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+      "content": "Hola mundo desde Twitter Clone!",
+      "timestamp": "2025-02-20T14:05:00Z"
     },
     {
-      "id": 2,
-      "projectId": 1,
-      "title": "Task 2",
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "title": "Task 3",
-      "description": "Create a form with 5 input fields"
+      "content": "ioñioí´çç",
+      "username": "Default User",
+      "handle": "@defaultuser",
+      "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+      "timestamp": "2025-02-20T17:03:48.548Z",
+      "id": 4
     }
   ]
 }
