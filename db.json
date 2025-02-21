@@ -2,19 +2,27 @@
   "tweets": [
     {
       "id": 1,
-      "username": "JuanPerez",
-      "handle": "@juanp",
-      "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
-      "content": "Este es mi primer tweet!",
+      "username": "Dio",
+      "handle": "@Zawarudo",
+      "avatar": "https://wallpapers.com/images/featured/dio-brando-pvpzhyzkrxa3akxi.webp",
+      "content": "¿Es Hamon o Jamón? 🤣🤣",
       "timestamp": "2025-02-20T14:00:00Z"
     },
     {
       "id": 2,
-      "username": "MariaLopez",
-      "handle": "@marial",
-      "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
-      "content": "Hola mundo desde Twitter Clone!",
+      "username": "Giorno Giovanna",
+      "handle": "@ElJefe",
+      "avatar": "https://i1.sndcdn.com/artworks-7qEdJuaD6PXqr6kJ-ndfmCQ-t500x500.jpg",
+      "content": "Tanto sonar tanto sonar, que al final he comenzado a aprender piano",
       "timestamp": "2025-02-20T14:05:00Z"
+    },
+    {
+      "content": "fjrtj\n",
+      "username": "Joseph Jostar",
+      "handle": "@BestJojo",
+      "avatar": "https://static.tvtropes.org/pmwiki/pub/images/41a8bb16_eecd_4de0_9f43_e8e08b7d4495.jpeg",
+      "timestamp": "2025-02-21T10:21:59.351Z",
+      "id": 3
     }
   ]
 }
